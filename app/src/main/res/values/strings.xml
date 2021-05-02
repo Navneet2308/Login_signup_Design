@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">task1</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email_phone">EMAIL/PHONE</string>
+    <string name="log_in">Log in</string>
+    <string name="password">Password</string>
+    <string name="by_signing_up_you_agree_to_designguru_s_terms_of_use_and_privacy_policy">By Signing up, you agree to Designguru\'s  <font color='#2A59E1'>Terms of use</font> and <font color='#2A59E1'>Privacy Policy</font></string>
+    <string name="sign_in">Sign In</string>
+</resources>
